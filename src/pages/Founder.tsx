@@ -56,8 +56,8 @@ export default function Founder() {
                 <div className="absolute -inset-3 rounded-3xl bg-gradient-to-br from-[#2ecc71]/20 to-transparent blur-2xl" />
                 <div className="relative rounded-3xl overflow-hidden border border-emerald-500/20 aspect-square">
                   <img
-                    src="https://images.pexels.com/photos/3777943/pexels-photo-3777943.jpeg?auto=compress&cs=tinysrgb&w=600"
-                    alt="[Founder Name]"
+                    src="/assets/images/founder-photo.png"
+                    alt="[Anish Kumar Sreedharan]"
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -74,7 +74,7 @@ export default function Founder() {
                 Meet the Founder
               </span>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mt-4 mb-6 leading-tight">
-                <span className="gradient-text-light">[Founder Name]</span>
+                <span className="gradient-text-light">[Anish Kumar Sreedharan]</span>
               </h1>
               <p className="text-lg text-gray-300 leading-relaxed mb-6">
                 Founder & Visionary behind BioSovereign. An integration of ecology, neuroscience,
@@ -113,7 +113,7 @@ export default function Founder() {
           </h2>
           <div className="space-y-5">
             <p className="text-lg text-gray-300 leading-relaxed">
-              [Founder Name]'s path to BioSovereign began with a simple but radical observation: the
+              [Anish Kumar Sreedharan]'s path to BioSovereign began with a simple but radical observation: the
               frameworks we use to understand the world — economic, political, scientific — are
               themselves products of the same worldview that created our current crises. You cannot
               solve a problem with the thinking that created it.
@@ -133,7 +133,7 @@ export default function Founder() {
               path from citizenship to ecozenship.
             </p>
             <p className="text-lg text-gray-300 leading-relaxed">
-              [Founder Name] continues to develop and refine this framework through research,
+              [Anish Kumar Sreedharan] continues to develop and refine this framework through research,
               dialogue, and real-world implementation — working with communities, innovators, and
               institutions that are already building pieces of the regenerative future.
             </p>
