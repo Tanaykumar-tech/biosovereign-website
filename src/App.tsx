@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import ScrollToTop from '@/components/ScrollToTop';
+import ParticlesBackground from '@/components/ParticlesBackground';
 import HomePage from '@/pages/Home';
 import PlanetaryConsciousness from '@/pages/PlanetaryConsciousness';
 import SymbioticDesign from '@/pages/SymbioticDesign';
@@ -13,6 +14,7 @@ export default function App() {
     <BrowserRouter>
       <ScrollToTop />
       <div className="min-h-screen bg-[#04140e] flex flex-col">
+        <ParticlesBackground />
         <Header />
         <main className="flex-1">
           <Routes>
