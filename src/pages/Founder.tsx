@@ -159,7 +159,7 @@ export default function Founder() {
             </div>
             <Quote size={36} className="text-[#2ecc71]/30 mb-4" />
             <p className="text-2xl md:text-3xl font-bold text-white leading-snug mb-6">
-              "To midwife humanity's transition from citizens to ecozens — from a species that
+              "To mind craft humanity's transition from citizens to ecozens — from a species that
               extracts to a species that coexists — by building the cognitive, design, and economic
               infrastructure for a regenerative civilization."
             </p>
