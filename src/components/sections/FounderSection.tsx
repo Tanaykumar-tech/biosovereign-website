@@ -26,7 +26,7 @@ export default function FounderSection() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#04140e] via-transparent to-transparent" />
               <div className="absolute bottom-6 left-6 right-6">
-                <p className="text-white font-semibold text-lg">[Founder Name]</p>
+                <p className="text-white font-semibold text-lg">[Anish Kumar Sreedharan]</p>
                 <p className="text-[#2ecc71] text-sm">Founder & Visionary</p>
               </div>
             </div>
@@ -49,7 +49,7 @@ export default function FounderSection() {
             <div className="relative mb-8">
               <Quote size={32} className="text-[#2ecc71]/30 absolute -top-2 -left-2" />
               <p className="text-lg text-gray-300 leading-relaxed pl-8">
-                [Founder Name], the founder of BioSovereign, envisions humanity's evolution from
+                The founder of BioSovereign, envisions humanity's evolution from
                 citizens to ecozens — moving beyond exploitation toward coexistence. He integrates
                 ecology, neuroscience, regenerative economics, and indigenous wisdom into actionable
                 solutions for planetary well-being.
