@@ -14,7 +14,7 @@ export default function Hero() {
         poster="https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?auto=compress&cs=tinysrgb&w=1920"
       >
         <source
-          src="https://cdn.pixabay.com/video/2024/02/29/202575-918736846_large.mp4"
+          src="/assets/hero-video.mp4"
           type="video/mp4"
         />
       </video>
