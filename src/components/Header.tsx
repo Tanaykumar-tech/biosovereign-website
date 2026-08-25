@@ -52,7 +52,7 @@ export default function Header() {
       <nav className="max-w-7xl mx-auto px-6 lg:px-10 flex items-center justify-between h-20">
         <Link to="/" className="flex items-center" onClick={() => handleNavClick('/')}>
           <img
-            src="/assets/images/Biosovereign.logo_New_.png"
+               src="/assets/images/biosovereign_logo_new_.png"
             alt="BioSovereign — Designing Sovereignty for Life"
             className="h-9 w-auto object-contain"
           />
