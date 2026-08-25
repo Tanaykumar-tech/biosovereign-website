@@ -20,7 +20,7 @@ export default function FounderSection() {
             <div className="absolute -inset-4 rounded-3xl bg-gradient-to-br from-[#2ecc71]/20 to-transparent blur-2xl" />
             <div className="relative rounded-3xl overflow-hidden border border-emerald-500/20 aspect-[4/5]">
               <img
-                src="https://images.pexels.com/photos/3777943/pexels-photo-3777943.jpeg?auto=compress&cs=tinysrgb&w=800"
+                founder-photo.png
                 alt="Founder of BioSovereign"
                 className="w-full h-full object-cover"
               />
