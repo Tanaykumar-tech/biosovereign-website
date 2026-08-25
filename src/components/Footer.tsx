@@ -31,7 +31,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <img
-              src="/assets/images/Biosovereign.logo_New_.png"
+                 src="/assets/images/biosovereign_logo_new_.png"
               alt="BioSovereign — Designing Sovereignty for Life"
               className="h-10 w-auto object-contain mb-5"
             />
