@@ -108,10 +108,10 @@ export default function Footer() {
               Join the movement toward planetary sovereignty.
             </p>
             <a
-              href="mailto:hello@biosovereign.earth"
+              href="mailto:info@openbiosovereign.com"
               className="inline-flex items-center px-5 py-2.5 rounded-full bg-[#2ecc71]/10 border border-[#2ecc71]/30 text-[#2ecc71] font-medium text-sm hover:bg-[#2ecc71]/20 transition-all duration-300"
             >
-              hello@biosovereign.earth
+              info@openbiosovereign.com
             </a>
           </div>
         </div>
