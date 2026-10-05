@@ -26,7 +26,7 @@ export default function FounderSection() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-[#04140e] via-transparent to-transparent" />
               <div className="absolute bottom-6 left-6 right-6">
-                <p className="text-white font-semibold text-lg">[Anish Kumar Sreedharan]</p>
+                <p className="text-white font-semibold text-lg">[Dr. Anish Kumar Sreedharan]</p>
                 <p className="text-[#2ecc71] text-sm">Founder & Visionary</p>
               </div>
             </div>
